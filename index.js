@@ -7,7 +7,7 @@ const element = (
           <img src="https://assets.ccbp.in/frontend/react-js/congrats-card-profile-img.png" />
           <h1>Kiran V</h1>
         </div>
-        <p>institute of computer education and technology</p>
+        <p>vishnu institute of computer education and technology</p>
         <div>
           <img src="https://assets.ccbp.in/frontend/react-js/congrats-card-watch-img.png" />
         </div>
