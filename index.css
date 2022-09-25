@@ -23,7 +23,7 @@ h1 {
 .card {
   background-color: #cffafe;
   height: 70vh;
-  border-radius: 15px;
+  border-radius: 16px;
   margin: 10px;
   display: flex;
   flex-direction: column;
